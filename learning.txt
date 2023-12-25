@@ -1,0 +1,8 @@
+#!/bin/bash/
+
+list of nams of Friends
+Lex
+Ayo
+max
+vera
+Chidinma
